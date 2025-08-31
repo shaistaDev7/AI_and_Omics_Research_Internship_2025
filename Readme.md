@@ -1,1 +1,1 @@
-#Please check out practice through this repository
+📌 Please check out the practice materials through this [repository](https://github.com/shaistaDev7/AI_and_Omics_Research_Internship_2025-practice-.git).
